@@ -1,0 +1,11 @@
+{
+  "query": "Kedatangan Prabowo ke sidang PBB",
+  "max_results": 50,
+  "max_comments": 200,
+  "delay_between_requests": 1,
+  "output_folder": "data/master_csv/",
+  "raw_data_folder": "data/raw_json/",
+  "visual_folder": "data/visualizations/",
+  "log_file": "logs/crawler.log",
+  "log_level": "INFO"
+}
