@@ -1,6 +1,6 @@
 # Laporan Analisis YouTube Comments & Video
 
-Kedatangan Menteri Pertahanan Indonesia, Prabowo Subianto, ke Sidang Umum Perserikatan Bangsa-Bangsa (PBB) menjadi sorotan media dan publik. Isu ini memunculkan berbagai opini di media sosial, khususnya di platform YouTube, di mana penonton memberikan komentar yang beragam: mendukung, netral, atau bahkan kritis.
+Kedatangan Presiden Indonesia, Prabowo Subianto, ke Sidang Umum Perserikatan Bangsa-Bangsa (PBB) menjadi sorotan media dan publik. Isu ini memunculkan berbagai opini di media sosial, khususnya di platform YouTube, di mana penonton memberikan komentar yang beragam: mendukung, netral, atau bahkan kritis.
 - - -
 Analisis komentar YouTube terkait topik ini memberikan insight mengenai persepsi publik, tren opini, dan tingkat interaksi penonton terhadap isu politik berskala internasional. Informasi ini dapat digunakan untuk:
 - Memahami reaksi masyarakat secara keseluruhan terhadap kedatangan Prabowo.
@@ -109,4 +109,5 @@ Word cloud global menampilkan kata yang paling sering muncul. Word cloud per sen
 - **Pandas**: manipulasi data  
 - **Matplotlib & Seaborn**: visualisasi  
 - **WordCloud**: visualisasi kata
+
 
