@@ -1,6 +1,36 @@
 # Laporan Analisis YouTube Comments & Video
 
-Proyek ini bertujuan menganalisis komentar dan statistik video YouTube secara keseluruhan, menggunakan data komentar, data video, dan tren sentimen dari waktu ke waktu. Analisis dilakukan untuk memahami pola interaksi pengguna, sentimen, dan konten yang populer.
+Kedatangan Menteri Pertahanan Indonesia, Prabowo Subianto, ke Sidang Umum Perserikatan Bangsa-Bangsa (PBB) menjadi sorotan media dan publik. Isu ini memunculkan berbagai opini di media sosial, khususnya di platform YouTube, di mana penonton memberikan komentar yang beragam: mendukung, netral, atau bahkan kritis.
+- - -
+Analisis komentar YouTube terkait topik ini memberikan insight mengenai persepsi publik, tren opini, dan tingkat interaksi penonton terhadap isu politik berskala internasional. Informasi ini dapat digunakan untuk:
+- Memahami reaksi masyarakat secara keseluruhan terhadap kedatangan Prabowo.
+- Mengidentifikasi konten atau komentar yang viral dan memengaruhi opini publik.
+- Memberikan wawasan bagi analis politik dan media terkait sentimen dan engagement masyarakat.
+- - - 
+Analisis yang Dilakukan
+1. Distribusi Sentimen Komentar
+- Setiap komentar dikategorikan menjadi positif, netral, atau negatif menggunakan analisis sentimen berbasis teks.
+- Tujuannya untuk memahami persepsi publik secara keseluruhan terhadap isu kedatangan Prabowo ke PBB.
+
+2. Top Video berdasarkan Jumlah Komentar
+- Mengidentifikasi video yang paling banyak dikomentari, sehingga menunjukkan video paling menarik perhatian publik.
+
+3. Top Komentar berdasarkan Like
+- Menampilkan komentar yang paling disukai penonton, filter komentar promosi atau spam (misal: wd, garuda, hoki).
+- Memberikan insight tentang opini atau pernyataan yang dianggap penting atau populer.
+
+4. Distribusi Komentar per Channel
+- Menunjukkan channel mana yang paling banyak menarik komentar terkait isu ini.
+- Berguna untuk melihat platform atau influencer yang mempengaruhi opini publik.
+
+5. Sebaran Like Count Komentar  
+Histogram like menunjukkan bahwa mayoritas komentar memiliki like rendah, sedangkan komentar populer sedikit membentuk ekor panjang. Ini mengindikasikan bahwa opini yang viral bersifat terbatas, tetapi berdampak signifikan.
+
+6. Trend Sentimen dari Waktu ke Waktu  
+Melacak perubahan jumlah komentar positif, netral, dan negatif setiap hari selama periode tertentu. Bisa digunakan untuk melihat reaksi publik terhadap liputan berita atau pernyataan resmi.
+
+7. Word Frequency (Global) dan Top Words per Sentiment  
+Word cloud global menampilkan kata yang paling sering muncul. Word cloud per sentimen (positif, netral, negatif) membantu mengidentifikasi topik yang dominan di tiap kategori opini.
 
 ---
 
@@ -79,3 +109,4 @@ Proyek ini bertujuan menganalisis komentar dan statistik video YouTube secara ke
 - **Pandas**: manipulasi data  
 - **Matplotlib & Seaborn**: visualisasi  
 - **WordCloud**: visualisasi kata
+
